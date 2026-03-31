@@ -8,8 +8,8 @@ Projeto simples para prática de Gitflow.
 - Criação de tags e releases
 
 ## Versões
-- v1.0.0 → primeira versão
-- v1.0.1 → correção (hotfix)
+- v1.0.0 -> primeira versão
+- v1.0.1 ->  correção (hotfix)
 
 ## Como rodar
 Abrir o arquivo `index.html` no navegador.
